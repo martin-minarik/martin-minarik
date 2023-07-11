@@ -4,7 +4,10 @@
 
 I am currently a college student majoring in Computer Science
 
-- **My Codewars profile:** https://www.codewars.com/users/martin-minarik
+- **My Codewars profile:**
+  
+[![Codewars badge](https://www.codewars.com/users/martin-minarik/badges/large)](https://www.codewars.com/users/martin-minarik)
+
 
 ---
 
