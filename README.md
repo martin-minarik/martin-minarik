@@ -23,6 +23,7 @@ I am currently a college student majoring in Computer Science
 </div>
 
 #### Got experience with
+- Web scraping: **Selenium**
 - Database Systems: **Oracle Database, SQLite**
 - GUI frameworks: **Qt, JavaFX, Tkinter**
 - Web backend: **Django, Flask**
