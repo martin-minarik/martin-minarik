@@ -4,11 +4,6 @@
 
 I am currently a college student majoring in Computer Science
 
-- **My Codewars profile:**
-  
-[![Codewars badge](https://www.codewars.com/users/martin-minarik/badges/large)](https://www.codewars.com/users/martin-minarik)
-
-
 ---
 
 ### :hammer_and_wrench: Skills :
@@ -28,12 +23,17 @@ I am currently a college student majoring in Computer Science
 - GUI frameworks: **Qt, JavaFX, Tkinter**
 - Web backend: **Django, Flask**
 - Fundamentals of Computer Networks: **Network Design, TCP/IP, Routing**
-
+  
 ---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martin-minarik&theme=dark&background=00000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-minarik&layout=compact&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### My Codewars profile
+  
+[![Codewars badge](https://www.codewars.com/users/martin-minarik/badges/large)](https://www.codewars.com/users/martin-minarik)
