@@ -4,6 +4,8 @@
 
 I am currently a college student majoring in Computer Science
 
+- [gists](https://gist.github.com/martin-minarik)
+
 ---
 
 ### :hammer_and_wrench: Skills :
